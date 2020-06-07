@@ -11,7 +11,7 @@ Horiseon, is a website that offers different marketing tools and explains its be
 https://carolinacez.github.io/bring-me-the-horiseon/
 
 ## Page Layout
-![Horiseon-Page-Layout] (./screenshot.png)
+![Horiseon-Page-Layout](./screenshot.png)
 
 ## Contribution
 Carolina Cabrera
