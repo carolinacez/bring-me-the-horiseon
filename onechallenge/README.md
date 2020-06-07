@@ -13,4 +13,4 @@ https://carolinacez.github.io/bring-me-the-horiseon/.
 ## Contribution
 Carolina 
 
-### ©️2020 Horiseon
+### ©️2020 Horiseon 
